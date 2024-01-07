@@ -1,0 +1,19 @@
+.article{
+  width: 600px;
+  border-left: 5px solid red;
+  border-bottom: 5px solid red;
+  border-bottom-left-radius: 10px;
+  p{
+    padding-bottom: 10px;
+    padding-top: 100px;
+    padding-left: 50px;
+    border: 1px solid #333;
+  }
+  h2{
+    border: 1px solid #333;
+  }
+  img{
+    width: 100%;
+  }
+
+}
